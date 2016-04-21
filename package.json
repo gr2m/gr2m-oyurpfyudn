@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gr2m/gr2m-oyurpfyudn#readme",
   "devDependencies": {
     "semantic-release": "^4.3.5"
+  },
+  "dependencies": {
+    "gr2m-awoftuawfntayowfutn": "^1.0.0"
   }
 }
