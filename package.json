@@ -6,17 +6,10 @@
     "test": "exit 0",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gr2m/gr2m-oyurpfyudn.git"
-  },
+  "repository": "github:gr2m/gr2m-oyurpfyudn",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gr2m/gr2m-oyurpfyudn/issues"
-  },
-  "homepage": "https://github.com/gr2m/gr2m-oyurpfyudn#readme",
   "devDependencies": {
     "semantic-release": "^4.3.5"
   },
